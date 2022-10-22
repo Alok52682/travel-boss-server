@@ -1,0 +1,272 @@
+[
+    {
+        "id": "1",
+        "place_id": "1",
+        "name": "Hotel Seaviwe",
+        "hotel_img": "https://digital.ihg.com/is/image/ihg/staybridge-suites-irvine-6723805112-4x3",
+        "rating": 4.3,
+        "price": 50,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "2",
+        "place_id": "1",
+        "name": "Hotel Sunri",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/6cdd3f44783a11e788ea0a4cef95d023.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.5,
+        "price": 55,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "3",
+        "place_id": "1",
+        "name": "Hotel Morocco",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/0cb2bbf6783c11e7b2b5025f77df004f.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.9,
+        "price": 60,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "4",
+        "place_id": "1",
+        "name": "Hotel Dolphin",
+        "hotel_img": "https://files01.pna.gov.ph/category-list/2021/09/07/joy-nostalg.jpg",
+        "rating": 4.4,
+        "price": 53,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "5",
+        "place_id": "1",
+        "name": "Hotel Star",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/082f1ae6330211eb9c050242ac110004.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.6,
+        "price": 52,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "6",
+        "place_id": "1",
+        "name": "Hotel Coral",
+        "hotel_img": "https://pix10.agoda.net/hotelImages/109/10997/10997_17090816420056162871.jpg?ca=6&ce=1&s=1024x768",
+        "rating": 4.1,
+        "price": 45,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "7",
+        "place_id": "2",
+        "name": "Hotel Singchang",
+        "hotel_img": "https://digital.ihg.com/is/image/ihg/staybridge-suites-irvine-6723805112-4x3",
+        "rating": 4.3,
+        "price": 50,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "8",
+        "place_id": "2",
+        "name": "Hotel Seagul",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/6cdd3f44783a11e788ea0a4cef95d023.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.5,
+        "price": 55,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "9",
+        "place_id": "2",
+        "name": "Hotel A.K",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/0cb2bbf6783c11e7b2b5025f77df004f.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.9,
+        "price": 60,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "10",
+        "place_id": "2",
+        "name": "Hotel Coral",
+        "hotel_img": "https://files01.pna.gov.ph/category-list/2021/09/07/joy-nostalg.jpg",
+        "rating": 4.4,
+        "price": 53,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "11",
+        "place_id": "2",
+        "name": "Hotel Moon",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/082f1ae6330211eb9c050242ac110004.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.6,
+        "price": 52,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "12",
+        "place_id": "2",
+        "name": "Hotel Honey",
+        "hotel_img": "https://pix10.agoda.net/hotelImages/109/10997/10997_17090816420056162871.jpg?ca=6&ce=1&s=1024x768",
+        "rating": 4.1,
+        "price": 45,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "13",
+        "place_id": "3",
+        "name": "Hotel Cowboy",
+        "hotel_img": "https://digital.ihg.com/is/image/ihg/staybridge-suites-irvine-6723805112-4x3",
+        "rating": 4.3,
+        "price": 50,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "14",
+        "place_id": "3",
+        "name": "Hotel Romania",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/6cdd3f44783a11e788ea0a4cef95d023.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.5,
+        "price": 55,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "15",
+        "place_id": "3",
+        "name": "Hotel Panjab",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/0cb2bbf6783c11e7b2b5025f77df004f.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.9,
+        "price": 60,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "16",
+        "place_id": "3",
+        "name": "Hotel Classico",
+        "hotel_img": "https://files01.pna.gov.ph/category-list/2021/09/07/joy-nostalg.jpg",
+        "rating": 4.4,
+        "price": 53,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "17",
+        "place_id": "3",
+        "name": "Hotel Innani",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/082f1ae6330211eb9c050242ac110004.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.6,
+        "price": 52,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "18",
+        "place_id": "3",
+        "name": "Hotel Arabia",
+        "hotel_img": "https://pix10.agoda.net/hotelImages/109/10997/10997_17090816420056162871.jpg?ca=6&ce=1&s=1024x768",
+        "rating": 4.1,
+        "price": 45,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "19",
+        "place_id": "4",
+        "name": "Hotel Night City",
+        "hotel_img": "https://digital.ihg.com/is/image/ihg/staybridge-suites-irvine-6723805112-4x3",
+        "rating": 4.3,
+        "price": 50,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "20",
+        "place_id": "4",
+        "name": "Hotel Winter",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/6cdd3f44783a11e788ea0a4cef95d023.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.5,
+        "price": 55,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "21",
+        "place_id": "4",
+        "name": "Hotel India",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/0cb2bbf6783c11e7b2b5025f77df004f.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.9,
+        "price": 60,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "22",
+        "place_id": "4",
+        "name": "Hotel Italia",
+        "hotel_img": "https://files01.pna.gov.ph/category-list/2021/09/07/joy-nostalg.jpg",
+        "rating": 4.4,
+        "price": 53,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "23",
+        "place_id": "4",
+        "name": "Hotel California",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/082f1ae6330211eb9c050242ac110004.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.6,
+        "price": 52,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "24",
+        "place_id": "4",
+        "name": "Hotel Kangaro",
+        "hotel_img": "https://pix10.agoda.net/hotelImages/109/10997/10997_17090816420056162871.jpg?ca=6&ce=1&s=1024x768",
+        "rating": 4.1,
+        "price": 45,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "25",
+        "place_id": "5",
+        "name": "Hotel Maleborn",
+        "hotel_img": "https://digital.ihg.com/is/image/ihg/staybridge-suites-irvine-6723805112-4x3",
+        "rating": 4.3,
+        "price": 50,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "26",
+        "place_id": "5",
+        "name": "Hotel Summer",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/6cdd3f44783a11e788ea0a4cef95d023.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.5,
+        "price": 55,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "27",
+        "place_id": "5",
+        "name": "Hotel Sonargaun",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/0cb2bbf6783c11e7b2b5025f77df004f.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.9,
+        "price": 60,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "28",
+        "place_id": "5",
+        "name": "Hotel Paricia",
+        "hotel_img": "https://files01.pna.gov.ph/category-list/2021/09/07/joy-nostalg.jpg",
+        "rating": 4.4,
+        "price": 53,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "29",
+        "place_id": "5",
+        "name": "Hotel Humpty Dumpty",
+        "hotel_img": "https://r1imghtlak.mmtcdn.com/082f1ae6330211eb9c050242ac110004.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+        "rating": 4.6,
+        "price": 52,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    },
+    {
+        "id": "30",
+        "place_id": "5",
+        "name": "Hotel Tigers",
+        "hotel_img": "https://pix10.agoda.net/hotelImages/109/10997/10997_17090816420056162871.jpg?ca=6&ce=1&s=1024x768",
+        "rating": 4.1,
+        "price": 45,
+        "description": "2 bathrooms, 2 bedrooms, 4 guests, 20+ facilities"
+    }
+]

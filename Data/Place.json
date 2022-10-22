@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Cox's Bazar",
+        "img_Url": "https://i.fonts2u.com/co/banner_coxs-bazar.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Sajek VAlley",
+        "img_Url": "https://reservationbangladesh.com/assets/uploads/tour/704c02e05cc695f1312cb5f740730a16.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Srimongol",
+        "img_Url": "https://live.staticflickr.com/2867/9879684044_a7cee87fcb_b.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jaflong",
+        "img_Url": "https://www.observerbd.com/2020/11/01/observerbd.com_1604164347.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sitakunda",
+        "img_Url": "https://image.shutterstock.com/image-photo/beautiful-greenish-view-beach-sky-260nw-1904654365.jpg"
+    }
+]
